@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Campaign Notes for Echoes of War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Campaign Notes for Echoes of War"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
+                "file": "Campaign Notes for Echoes of War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interactive Cormyr"
+              "title": "Campaign Notes for Echoes of War"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
+                "file": "Campaign Notes for Echoes of War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interactive Cormyr"
+              "title": "Backlinks for Campaign Notes for Echoes of War"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
+                "file": "Campaign Notes for Echoes of War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interactive Cormyr"
+              "title": "Outgoing links from Campaign Notes for Echoes of War"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
+                "file": "Campaign Notes for Echoes of War.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interactive Cormyr"
+              "title": "Outline of Campaign Notes for Echoes of War"
             }
           }
         ]
@@ -188,10 +188,11 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Interactive Cormyr.md",
     "TTRPG Tracking/Echoes of War/Reference/When/Cormyrian Timeline, 1275 to Present.md",
     "category-folder/index.md",
     "category-folder/Some note.md",
-    "index.md",
+    "Campaign Notes for Echoes of War.md",
     "category-folder"
   ]
 }
