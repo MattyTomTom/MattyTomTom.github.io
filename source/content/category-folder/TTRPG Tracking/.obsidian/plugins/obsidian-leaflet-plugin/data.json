@@ -1,0 +1,121 @@
+{
+  "mapMarkers": [
+    {
+      "id": "cormyr-map",
+      "lastAccessed": 1774915433634,
+      "markers": [
+        {
+          "id": "ID_6a6a8bd80b49",
+          "type": "default",
+          "loc": [
+            -0.9345855712890625,
+            2.0849609375
+          ],
+          "link": "Ven",
+          "layer": "%5B%5BMap%20of%20Cormyr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Location of Side Quest Interest, Teruvian is here",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9181afba869",
+          "type": "default",
+          "loc": [
+            -1.6230621337890625,
+            2.4638671875
+          ],
+          "link": "Current Party Quests",
+          "layer": "%5B%5BMap%20of%20Cormyr.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Clear the Castle Raedra Offered Up",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Echoes of War/Reference/Where/Maps/Interactive Cormyr.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#a007ab",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Map of Cormyr.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Map of Cormyr.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "cormyr-map",
+    "bounds": "",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

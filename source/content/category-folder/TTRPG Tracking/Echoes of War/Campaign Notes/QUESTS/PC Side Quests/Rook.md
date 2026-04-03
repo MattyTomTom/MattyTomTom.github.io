@@ -1,0 +1,1 @@
+Shares a nightmare with Ember of a red-cloaked figure with a gold(?) mask.
