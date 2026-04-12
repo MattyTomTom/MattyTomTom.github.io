@@ -20,6 +20,13 @@ The Party had some separate downtime segments throughout [[Suzail]], with the pl
 
 [[Forge Unbroken]] and [[Ysgraviir Ysraldsson]] had an interesting time at the Spa. Brotherhood was . . . forged.
 
+[[Ven Kallix]], [[Ascánthir Crithatri]], and [[Vaelithra Igristisk]] went to a library called The Golden Knowledge. The library was revealed to be under the patronage of a Golden Dragon, operating in disguise to the public under the name Gil. After revealing his true form, Gil offered rare books to the 3 adventurers.
+ - [[Ven Kallix]] was given a book on the Emerald Enclave, along with advice to travel to Eveningstar to seek out a fellow named Tenuvian.
+ - [[Ascánthir Crithatri]] did not recieve a book, but was advised that The Book of Vile Darkness was given to the Red Wizards of Thay by an unnamed individual.
+ - [[Vaelithra Igristisk]] received a book offering insight on Bahamut.
+
 [[Ven Kallix]] found peace at the Promenade Park, and met [[Dahlia]] and [[Lady Sarya Crownsilver]].
+
+[[Ascánthir Crithatri]] went to a magic store, Mage You Look, and had a drama-filled conversation with the shopkeep. In the midst of this talk, it was implied that [[Ascánthir Crithatri]] views others as less-than, on account of their short lives compared to that of elves. He also pledged to find out why [[Crown Princess Adenia Obarskyr]] was buying so much of the shop's stock, in exchange for a magic book.
 
 [[Ysgraviir Ysraldsson]] found pleasure through pain with [[Opal, High Priestess of Selune]] and her priestesses.
