@@ -15,14 +15,18 @@ The party, sans [[Ascánthir Crithatri]] and [[Vaelithra Igristisk]], meets at t
 
 > [!question]- Quest Update! Forge: The Right Hand Sins, So Cut it Off
 > Obtained in [[Session 2]]
+> 
 > When a paladin says someone's evil, believe them.
+> 
 > NEW INFO - Not much. But Forge really doesn't like these guys.
 
 - [[Ysgraviir Ysraldsson]] revealed that he's tracking a necromancer, and elaborates that he has theological issues with necromancers in general.
 
 > [!question]- Quest Updated! Ysgraviir: The Hunt  
 > Obtained in [[Session 2]]
+> 
 > A certain necromancer needs to go down.
+> 
 > NEW INFO - An affiliation with the Red Wizards of Thay.
 
 - [[Ember Blackthorn-Fenwick]] and [[Rook Fenwick]] established that they met in the midst of a job they were given. This job was later revealed to be a heist: stealing a book from a temple. They both decided they didn't care for the person that hired them, and set off together.
@@ -31,7 +35,9 @@ The party, sans [[Ascánthir Crithatri]] and [[Vaelithra Igristisk]], meets at t
 
 > [!question]- Quest Updated! Forge: What's in a Name?  
 > Obtained in [[Session 2]]
+> 
 > His name may or may not have been earned rather than given.
+> 
 > NEW INFO - It was indeed earned. This may be relevant to his previous enslavement.
 
 - [[Ven Kallix]] was questioned on his wedding band, leading into his revealing that he traveled to Cormyr both to honor the memory of his late wife, and to escape his depressed isolation. He was also questioned on his place of birth, as [[Grandsire Na’thaniél]] suspected he may originate from the Infernal Planes. [[Ven Kallix]] opted to plead the 5th, insisting he's from Candlekeep, but his poker face wasn't very convincing.
@@ -42,8 +48,11 @@ After the games concluded, a Halfling named Ted Herren played a lively song to g
 
 > [!question]- Quest Updated! Ysgraviir: The Hunt  
 > Obtained in [[Session 2]]
+> 
 > A certain necromancer needs to go down.
+> 
 > NEW INFO - An affiliation with the Red Wizards of Thay.
+> 
 > NEWER INFO - This guy is bouncing between Daerlune and the Well of Dragons.
 
 - [[Ven Kallix]] acquires a bottle of strong drink and debates internally what his night will look like. [[Grandsire Na’thaniél]] intercedes and reveals he shares Ven's sorrow, also having a passed spouse.
@@ -54,13 +63,16 @@ Notably, [[Ysgraviir Ysraldsson]] opted to get very little sleep at the behest o
 
 > [!question]- Quest Updated! Ysgraviir: Death by Snu Snu
 > Carnal conquests seem to be this guy's weakness. At least he's good at gambling.
+> 
 > NEW INFO - Dude nearly died.
 
 In other news, [[Ven Kallix]] opts to write a letter to his late wife, burning it in tribute, rather than falling victim to his alcoholic vice.
 
 > [!question]- Quest Updated! Ven: What is Love?  
 > Obtained in [[Session 2]]
+> 
 > Navigate "moving on"
+> 
 > NEW INFO - Bloodlust and adventuring aren't therapy. Maybe work on yourself first, bud.
 
 __Enter Chess 23rd__
@@ -69,8 +81,11 @@ __Enter Chess 23rd__
 
 > [!question]- Quest Updated! Dragon Tales  
 > Obtained in [[Session 0 and 1]]
+> 
 > Has some stuff going on with Bahamut, loves feathers.
+> 
 > Updated in [[Session 2]] - Gil the Golden Greatwyrm gave her a textbook on Bahamut. Get to reading!
+> 
 > NEW INFO - She set off solo to find the Dragonborn of her dreams.
 
 The Party sets off for their new real estate, taking an easy journey northwest of [[Suzail]].
@@ -84,6 +99,7 @@ Now sat down, Sam urges some discussion to learn about his new Lords, and establ
 
 > [!question]- Quest Updated! The Party: Proper Lords  
 > Turns out, owning this much property will be a lot of work.
+> 
 > NEW INFO - That was quick. The fields will remain maintained by Sam & family.
 
 At one point, [[Ven Kallix]] inquires about the family's literacy, thinking to offer some of his books that describe the feats of the Party so far. Knowledge of the written word is quickly confirmed to be a skill they have little interest in; however, [[Forge Unbroken]] expresses his desire to be taught, and [[Ven Kallix]] happily agrees.
@@ -103,8 +119,10 @@ In the middle of the night, [[Ascánthir Crithatri]] teleports into the stable, 
 
 > [!question]- Quest Updated! Ven: Circle of the Moon  
 > Obtained in [[Session 2]]
+> 
 > Find out more about the Emerald Enclave
 > - A Gold Dragon named Gil advised to travel to Eveningstar, north of King's Forest, and seek out a fellow named Tenuvian.
+> 
 > NEW INFO - Met Tenuvian, but haven't spoken yet.
 
 [[Ven Kallix]] gives [[Ascánthir Crithatri]] a quick rundown on what he's missed. The Party goes back to sleep.
@@ -115,12 +133,16 @@ Meeting the squatting bandits at the entrance of the Castle, the Party quickly c
 
 > [!question]- Quest Updated! The Party: Proper Lords  
 > Turns out, owning this much property will be a lot of work.
+> 
 > NEW INFO - That was quick. The fields will remain maintained by Sam & family.
+> 
 > NEWER INFO - That was also quick. But begrudging work from The Blue Blade adherents may not be ideal long term. 
 
 > [!question]- Quest Updated! The Party: Siege Obsessed!  
 > Obtained and updated in [[Session 2]]
+> 
 > Clear out the Castle that [[Queen Raedra Obarskyr]] offered up
+> 
 > NEW INFO - The siege will take the Party to the Underdark!
 
 

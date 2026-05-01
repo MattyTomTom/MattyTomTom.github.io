@@ -66,6 +66,7 @@ Before the meeting is concluded, it is established that the Party has been given
 
 > [!question]- Quest Updated! The Party: Siege Obsessed!  
 > Now it's canon! Obtained in [[Session 2]]
+> 
 > Clear out the Castle that [[Queen Raedra Obarskyr]] offered up
 
 The Party had some separate downtime segments throughout [[Suzail]], with the plan in place to meet up later that night (Ches 22nd, 1487) at The Red Herring.
