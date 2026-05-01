@@ -153,16 +153,114 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ascánthir.md",
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ysgraviir Ysraldsson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ascánthir"
+              "title": "Ysgraviir Ysraldsson"
+            }
+          },
+          {
+            "id": "2ae10714db1eca7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3"
+            }
+          },
+          {
+            "id": "a4bb4a308ecba02f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3"
+            }
+          },
+          {
+            "id": "58eca45cab089c6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3"
+            }
+          },
+          {
+            "id": "110c2dc4776df8b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Slither.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slither"
+            }
+          },
+          {
+            "id": "37c1821ba2819808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3"
+            }
+          },
+          {
+            "id": "5d01d0d4e78fbb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 3"
+            }
+          },
+          {
+            "id": "28cd6f99b61c7b25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Ricon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ricon"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -312,37 +410,38 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "bcacf37fb7b777b5",
+  "active": "28cd6f99b61c7b25",
   "lastOpenFiles": [
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ven Kallix.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ascánthir Crithatri.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ember Blackthorn-Fenwick.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Rook Fenwick.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Forge Unbroken.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Ysgraviir Ysraldsson.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/The Party/Vaelithra Igristisk.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Vaelithra.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ascánthir.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 2.md",
-    "index.md",
-    "TTRPG Tracking/z_Templates/Success.md",
-    "TTRPG Tracking/z_Templates/Timeline Event with Pic.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Verdix.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Queen Raedra Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Prince Erzoured Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Prince Baerovus Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Opal, High Priestess of Selune.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Mistress Ossani Eveningspire.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Lady Sarya Crownsilver.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Dar-Voril.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Dahlia.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Crown Princess Adenia Obarskyr.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Callie O' Toole.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Hilp/Dame Elmess.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Tenuvian.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Slither.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Skorgle.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep/Shack Inhabitants.md",
     "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 3.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Suzail Map.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ven.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Forge.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 2.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Vaelithra.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ysgraviir.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ascánthir.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/IRL Session Notes, Dated/Session 0 and 1.md",
+    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Rook.md",
+    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Gladehaven Keep",
     "TTRPG Tracking/Image Log/Suzail Map.jpeg",
     "TTRPG Tracking/Image Log/Suzail Map.webp",
     "TTRPG Tracking/Image Log/Suzail Image.jpg",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations/Suzail.md",
-    "TTRPG Tracking/Echoes of War/Reference/Who/NPCs/Suzail/Opal, High Priestess of Selune.md",
-    "TTRPG Tracking/Echoes of War/Reference/Where/Maps/Cormyr.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Current Party Quests.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/Completed Quests.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ven.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ysgraviir.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Rook.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Ember.md",
-    "TTRPG Tracking/Echoes of War/Campaign Notes/QUESTS/PC Side Quests/Forge.md",
-    "TTRPG Tracking/z_Templates/Custom Name (Collapsed).md",
     "TTRPG Tracking/Image Log/Hilp on Map.png",
     "TTRPG Tracking/Echoes of War/Reference/Where/Visited Locations",
     "category-folder"
