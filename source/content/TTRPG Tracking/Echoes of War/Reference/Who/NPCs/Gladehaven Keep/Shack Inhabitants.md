@@ -5,3 +5,5 @@ Samson - Son
 Nellie - Daughter
 
 Jared - Sam's brother in law, also mute
+
+Sick woman with mute children (not yet named)

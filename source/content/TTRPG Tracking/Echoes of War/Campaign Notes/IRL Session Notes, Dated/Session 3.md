@@ -44,7 +44,7 @@ The party, sans [[Ascánthir Crithatri]] and [[Vaelithra Igristisk]], meets at t
 - [[Grandsire Na’thaniél]] dropped the bomb that he's over 1000 years old. He also had an abusive father, and was taught to be a combat perfectionist when he was around 400. That was also when he decided he likes the color red.
 
 After the games concluded, a Halfling named Ted Herren played a lively song to get the whole place going. The individual members of the Party, better acquainted and sufficiently filled with food and drink, began to disperse a bit throughout the restaurant.
-- [[Ember Blackthorn-Fenwick]] notices a shady fellow staring daggers at the overly generous [[Ysgraviir Ysraldsson]]. She and [[Rook Fenwick]] confront the man, and [[Ysgraviir Ysraldsson]] eventually joins the conversation. The man reveals himself to be [[Dar-Voril]], a friend of [[Ysgraviir Ysraldsson]], and is of very high rank in the Purple Dragon Knights. He briefly mentions the upcoming parades in [[Suzail]] necessitating increased security, and discussed the Red Wizards of Thay, indicating a certain necromancer is not NOT traveling between Daerlune and the Well of Dragons.
+- [[Ember Blackthorn-Fenwick]] notices a shady fellow staring daggers at the overly generous [[Ysgraviir Ysraldsson]]. She and [[Rook Fenwick]] confront the man, and [[Ysgraviir Ysraldsson]] eventually joins the conversation. The man reveals himself to be [[Dar'Voril]], a friend of [[Ysgraviir Ysraldsson]], and is of very high rank in the Purple Dragon Knights. He briefly mentions the upcoming parades in [[Suzail]] necessitating increased security, and discussed the Red Wizards of Thay, indicating a certain necromancer is not NOT traveling between Daerlune and the Well of Dragons.
 
 > [!question]- Quest Updated! Ysgraviir: The Hunt  
 > Obtained in [[Session 2]]
@@ -79,7 +79,7 @@ __Enter Chess 23rd__
 
 [[Ven Kallix]], [[Ysgraviir Ysraldsson]], [[Forge Unbroken]], [[Rook Fenwick]], and [[Ember Blackthorn-Fenwick]] meet back up in the restaurant. [[Grandsire Na’thaniél]] expresses brief worry at not having received a Sending from [[Ascánthir Crithatri]]. Being told that [[Vaelithra Igristisk]] was evidently in her room, the party opts to check in on her. Impatient for results, [[Rook Fenwick]] picks the lock to her room to find it empty, save for a letter placed on the bed, indicating that [[Vaelithra Igristisk]] had set out to find The Gold Dragonborn from her dream.
 
-> [!question]- Quest Updated! Dragon Tales  
+> [!question]- Quest Updated! Vaelithra: Dragon Tales  
 > Obtained in [[Session 0 and 1]]
 > 
 > Has some stuff going on with Bahamut, loves feathers.
@@ -90,7 +90,7 @@ __Enter Chess 23rd__
 
 The Party sets off for their new real estate, taking an easy journey northwest of [[Suzail]].
 
-Upon arriving at what would later be revealed to be named [[Gladehaven Keep]], the Party takes in the scenery: a considerably sized castle with a few decades of wear-and-tear, plenty of farmland, and 3 little shacks, one being less well-kept than the others. Spotting a man working the field, [[Ven Kallix]] makes contact with Sam, who quickly acknowledges the Party as his new Lords, and quickly makes mention of his family: his (mute) wife Annie, who is with child; a son, Samson; a daughter, Nellie; and mentions Brian, an aspiring bard (who the Party briefly witnessed playing in the Stagg Skull inn in [[Hilp]] in [[Session 0 and 1]]) who left to go adventuring. After these brief introductions, the Party is urged to share dinner with the family.
+Upon arriving at what would later be revealed to be named [[Gladehaven Keep]], the Party takes in the scenery: a considerably sized castle with a few decades of wear-and-tear, plenty of farmland, and 3 little shacks, one being less well-kept than the others. Spotting a man working the field, [[Ven Kallix]] makes contact with Sam, who quickly acknowledges the Party as his new Lords, and quickly makes mention of his family: his (mute) wife Annie, who is with child; a son, Samson; a daughter, Nellie; and mentions Brian, an aspiring bard (who the Party briefly witnessed playing in the Stagg Skull inn in [[Hilp]] in [[Session 0 and 1]]) who left to go adventuring. Brief mention is also made of the sick woman and her two mute children residing in the other shack, though no names were given. After these brief introductions, the Party is urged to share dinner with the family.
 
 > [!question]- Quest Obtained! The Party: Proper Lords  
 > Turns out, owning this much property will be a lot of work.
